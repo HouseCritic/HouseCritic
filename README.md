@@ -14,7 +14,7 @@ In the beginning, it can capture users’ preference and houses’ representatio
 
 Figure 1 (a), (b) and (c) show  the structures of the *user module*, *house module* and *selection module*, respectively.
 
-![network-1](.\network-1.png)
+![](https://github.com/HouseCritic/HouseCritic/blob/master/img/1.png)
 
 *Figure 1: Structure of HouseCritic*
 
